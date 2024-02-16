@@ -1,1 +1,1 @@
-# Pizza-Sales-Report
+I developed a Power BI dashboard for pizza sales, highlighting four key performance indicators: total sales, total profit, average orders per day, and average pizzas per order. The dashboard visualizes peak hours within a day, the busiest day of the week, top 5 and bottom category customer orders. Additionally, it displays total orders per size, per category, and per month.
